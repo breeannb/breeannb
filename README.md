@@ -4,13 +4,13 @@
 ![Mountain](breeann.jpg)
 
 <div align="center">
-    <h1>
+    <p>
         <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/> Welcome to my Github Profile!<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
-    </h1>
+    </p>
 </div>
 
 <div align="center">
-    <p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
+    <p>Hello there! I’m a Full Stack Software Developer that strives to combine my developer & technical abilities with my graphic design background to create great front-end apps.</p>  
 </div>
 
 ------------
@@ -48,7 +48,6 @@
 
 ------------
 
-<br>
 <div align="center">
 <h3>Connect with me:</h3>
     <a href="mailto:bolinskybm10@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Dear%20Breeann,">
