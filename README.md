@@ -11,7 +11,7 @@
 
 <div align="center">
     <p>Hello there! I’m a Full Stack Software Developer that strives to combine my developer & technical abilities with my graphic design background to create great front-end apps.</p>  
-    <p> When I'm not coding, you can find me taking photos in nature, snuggling up to my two kitties, and doing artsy things </p>
+    <p> When I'm not coding, you can find me taking photos in nature, snuggling up to my two kitties, or creating art. </p>
 </div>
 
 ------------
