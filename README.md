@@ -6,7 +6,7 @@
     </h1>
 </div>
 
-![Mountain](1e.jpg)
+![Mountain](0.jpg)
 
 <div align="center">
     <p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
