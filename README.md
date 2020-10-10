@@ -4,6 +4,11 @@
     <h1>
         <img src="https://emojis.slackmojis.com/emojis/images/1596061043/9838/pusheen_blob.png?1596061043" width="30"/> Welcome to my Page! <img src="https://emojis.slackmojis.com/emojis/images/1467138982/607/octopus.png?1467138982" width="30"> 
     </h1>
+</div>
+
+![Mountain](1e.jpg)
+
+<div align="center">
     <p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
 </div>
 
@@ -67,6 +72,6 @@
 ------------
 <div align="center">
     <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
-        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=breeannb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
     </a>
 </div>
