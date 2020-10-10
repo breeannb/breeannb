@@ -2,18 +2,19 @@
 **breeannb/breeannb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
     <h1>
-        <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/> Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
+        <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/> Welcome to my Github Profile!<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
     </h1>
 </div>
 
-![Mountain](0.jpg)
+![Mountain](breeann.jpg)
 
 <div align="center">
     <p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
 </div>
 
+------------
 <div align="center">
-<h3>My Skill Set:</h3>
+<h3>Tech Stack:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF0202?style=flat-square&logo=css3&logoColor=white)
@@ -46,6 +47,7 @@
 
 ------------
 
+<br>
 <div align="center">
 <h3>Connect with me:</h3>
     <a href="mailto:bolinskybm10@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Dear%20Breeann,">
