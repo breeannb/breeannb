@@ -1,11 +1,13 @@
 <!-- <!--
 **breeannb/breeannb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1596061043/9838/pusheen_blob.png?1596061043" width="30"/> Welcome to my Page! <img src="https://emojis.slackmojis.com/emojis/images/1467138982/607/octopus.png?1467138982" width="30"> </h1>
-
-<p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
 <div align="center">
+    <h1>
+        <img src="https://emojis.slackmojis.com/emojis/images/1596061043/9838/pusheen_blob.png?1596061043" width="30"/> Welcome to my Page! <img src="https://emojis.slackmojis.com/emojis/images/1467138982/607/octopus.png?1467138982" width="30"> 
+    </h1>
+    <p>My name is Breeann and I'm a Design-driven Fullstack Software Developer. </p>  
+</div>
 
+<div align="center">
 <h3>My Skill Set:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
@@ -23,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-1CD609?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-41CD21?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-21D692?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-02FFAF?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-1FC486?style=flat-square&logo=postman&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-02D9FF?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0253FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0206FF?style=flat-square&logo=Trello&logoColor=white)
