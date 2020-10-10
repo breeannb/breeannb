@@ -2,7 +2,7 @@
 **breeannb/breeannb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
     <h1>
-        <img src="https://emojis.slackmojis.com/emojis/images/1596061043/9838/pusheen_blob.png?1596061043" width="30"/> Welcome to my Page! <img src="https://emojis.slackmojis.com/emojis/images/1467138982/607/octopus.png?1467138982" width="30"> 
+        <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/> Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
     </h1>
 </div>
 
