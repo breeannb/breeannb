@@ -1,13 +1,13 @@
 <!-- <!--
 **breeannb/breeannb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
 
 ![Mountain](breeann.jpg)
+</a>
 
 <div align="center">
     <h1>
-        <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
         <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/>
-        </a>
         Welcome to my Github Profile!
         <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
     </h1>
@@ -20,7 +20,7 @@
 
 ------------
 <div align="center">
-<h3>💻 Tech Stack:</h3>
+<h3>💻 Tech Stack & Tools:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF0202?style=flat-square&logo=css3&logoColor=white)
