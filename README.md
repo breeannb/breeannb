@@ -54,7 +54,7 @@
 ------------
 
 <div align="center">
-<h3>Connect with me:</h3>
+<h3>📥 Connect with me:</h3>
     <a href="mailto:bolinskybm10@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Dear%20Breeann,">
         <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
     </a>
@@ -79,7 +79,7 @@
 ------------
 
 <div align="center">
-<h3>Stats:</h3>
+<h3>📈 Stats:</h3>
     <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
         <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
     </a>
