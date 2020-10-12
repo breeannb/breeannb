@@ -4,9 +4,9 @@
 ![Mountain](breeann.jpg)
 
 <div align="center">
-    <p>
+    <h1>
         <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="20"/> Welcome to my Github Profile!<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="30"> 
-    </p>
+    </h1>
 </div>
 
 <div align="center">
