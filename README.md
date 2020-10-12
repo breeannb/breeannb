@@ -16,7 +16,7 @@
 
 ------------
 <div align="center">
-<h3>Tech Stack:</h3>
+<h3>💻 Tech Stack:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF0202?style=flat-square&logo=css3&logoColor=white)
@@ -73,7 +73,9 @@
 </p>
 
 ------------
+
 <div align="center">
+<h3>Stats:</h3>
     <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
         <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
     </a>
