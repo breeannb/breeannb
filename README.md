@@ -33,26 +33,19 @@
 ![React](https://img.shields.io/badge/-React-FF3402?style=flat-square&logo=react&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-JQuery-FF7102?style=flat-square&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-FF5E02?style=flat-square&logo=redux&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-FF7102?style=flat-square&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-FF7102?style=flat-square&logo=vue.js&logoColor=white)<h4>Backend:</h4>
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-FFA302?style=flat-square&logo=Node.js&logoColor=white)
-
-<h4>Backend:</h4>
-Tools: Slack, GitHub, Jira, VScode, Heroku, Netlify
-Testing Suites: Cypress, Rspec, Semaphore CI, Jest, QUnit
-Dev Practices: TDD, DDD Pair/Mob Programming, Scrum
-
 <h4>Databases:</h4>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FFDD02?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF002?style=flat-square&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFC202?style=flat-square&logo=bootstrap&logoColor=white)
-
 <h4>Design:</h4>
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-02D9FF?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0253FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![InDesign](http://img.shields.io/badge/-Adobe_Indesign-FFF002?style=flat-square&logo=adobe-indesign&logoColor=white)
-
+![InDesign](http://img.shields.io/badge/-Adobe_Indesign-0253FF?style=flat-square&logo=adobe-indesign&logoColor=white)
 <h4>Tools:</h4>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-E0FF02?style=flat-square&logo=heroku&logoColor=white)
