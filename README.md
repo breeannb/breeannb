@@ -20,7 +20,7 @@
 
 ------------
 <div align="center">
-<h3>💻 Tech Stack & Tools:</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" width="20"/> Tech Stack & Tools:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF0202?style=flat-square&logo=css3&logoColor=white)
@@ -55,7 +55,7 @@
 ------------
 
 <div align="center">
-<h3>📥 Connect with me:</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1471045859/870/mail.gif?1471045859" width="20"/> Connect with me:</h3>
     <a href="mailto:bolinskybm10@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Dear%20Breeann,">
         <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
     </a>
@@ -74,7 +74,7 @@
     <a href="https://www.instagram.com/breeann_bolinsky/" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a> 
-<h3>Account Visits:</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1570639887/6642/eye-roll.gif?1570639887" width="20"/> Account Visits:</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/breeannb/count.svg) 
 </div>
@@ -83,7 +83,7 @@
 ------------
 
 <div align="center">
-    <h3>📈 Stats:</h3>
+    <h3><img src="https://emojis.slackmojis.com/emojis/images/1521056100/3667/pie-chart.png?1521056100" width="20"/>  Stats:</h3>
     <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
         <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=breeannb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
     </a>
