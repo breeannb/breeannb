@@ -40,6 +40,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-1FC486?style=flat-square&logo=postman&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-02D9FF?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0253FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Indesign](http://img.shields.io/badge/-Adobe_Indesign-0253FF?style=flat-square&logo=adobe-indesign&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0206FF?style=flat-square&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3402FF?style=flat-square&logo=Slack&logoColor=white)
 ![Eslint](https://img.shields.io/badge/-ESLint-5302FF?style=flat-square&logo=ESLint&logoColor=white)
@@ -72,7 +73,10 @@
     </a>
     <a href="https://www.instagram.com/breeann_bolinsky/" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>  
+    </a> 
+<h4>Account Visits:</h4>
+
+![Visitor Count](https://profile-counter.glitch.me/breeannb/count.svg) 
 </div>
 </p>
 
@@ -80,7 +84,7 @@
 
 <div align="center">
 <h3>📈 Stats:</h3>
-    <a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
-        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-    </a>
+
+<a href="https://www.youtube.com/watch?v=RySHDUU2juM&list=RDRySHDUU2juM&start_radio=1">
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=breeannb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /></a><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breeannb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
