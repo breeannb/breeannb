@@ -20,7 +20,7 @@
 
 ------------
 <div align="center">
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" width="20"/> Tech Stack & Tools:</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1471045839/792/computer.gif?1471045839" width="30"/> Tech Stack & Tools:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-FF0202?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF0202?style=flat-square&logo=css3&logoColor=white)
