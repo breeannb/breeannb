@@ -74,7 +74,7 @@
     <a href="https://www.instagram.com/breeann_bolinsky/" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a> 
-<h4>Account Visits:</h4>
+<h3>Account Visits:</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/breeannb/count.svg) 
 </div>
