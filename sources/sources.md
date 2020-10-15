@@ -1,0 +1,5 @@
+- # Sources and helpful links: 
+    - https://awesomeopensource.com/project/abhisheknaiidu/awesome-github-profile-readme
+    - https://shields.io/ 
+    - https://github.com/anuraghazra/github-readme-stats
+    - https://github.com/breeannb/guilyx
